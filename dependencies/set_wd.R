@@ -1,1 +1,1 @@
-env_wd <- "/g5data/pinus-balfouriana"
+env_wd <- "/Users/stuartillson/g5data/pinus-balfouriana"

@@ -1,11 +1,10 @@
 ########################################
 # foxtail
 ########################################
-foxtail <-  c('RForcecom',
-              'dplyr',
+foxtail <-  c('dplyr',
               'tidyr',
               'rpart',
-              'rpart.plot'
+              'rpart.plot',
               'stringr',
               'RMySQL')
 

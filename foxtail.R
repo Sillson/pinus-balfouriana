@@ -2,10 +2,14 @@
 ## Foxtail - pinus balfouriana ##
 #################################
 
-#####################
-## Clean and Set ENV
-#####################
-source("dependencies/clean_env.R",local=TRUE)
-cleanEnv()
-source("dependencies/load_env.R",local=TRUE)
+##########
+## Set ENV
+##########
+source("dependencies/env_scripts.R",local=TRUE)
 loadEnv("foxtail")
+
+############
+## Clean ENV
+############
+source("dependencies/env_scripts.R",local=TRUE)
+cleanEnv()
