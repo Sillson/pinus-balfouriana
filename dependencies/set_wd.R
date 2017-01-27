@@ -1,0 +1,1 @@
+env_wd <- "/g5data/pinus-balfouriana"
